@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, MIT, 1991
+* Ph.D in Mathematics, UCLA, 1996
 
-Work experience
+Academic positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2009–2023: Professor
+  * Saint Louis University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020: Fulbright Scholar
+  * Acadamh na hOllscolaíochta Gaeilge, Carna, Co. Galway, Ireland
+
+* 2003–2009: Associate Professor
+  * Saint Louis University
+
+* 1998–2003: Assistant Professor
+  * Saint Louis University
+
+* 1996–1998: G. C. Evans Instructor
+  * Rice University
+
+* 1991–1996: Teaching Assistant
+  * UCLA
 
 Publications
 ======
@@ -56,4 +54,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Director of Graduate Studies at SLU, 2018–2022
+* Director of Computer Science at SLU, 2006–2010
