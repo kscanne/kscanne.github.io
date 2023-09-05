@@ -16,23 +16,12 @@ Education
 
 Academic positions
 ======
-* 2009–2023: Professor
-  * Saint Louis University
-
-* 2020: Fulbright Scholar
-  * Acadamh na hOllscolaíochta Gaeilge, Carna, Co. Galway, Ireland
-
-* 2003–2009: Associate Professor
-  * Saint Louis University
-
-* 1998–2003: Assistant Professor
-  * Saint Louis University
-
-* 1996–1998: G. C. Evans Instructor
-  * Rice University
-
-* 1991–1996: Teaching Assistant
-  * UCLA
+* 2009–2023: Professor, Saint Louis University
+* 2020: Fulbright Scholar, Acadamh na hOllscolaíochta Gaeilge, Carna, Co. Galway, Ireland
+* 2003–2009: Associate Professor, Saint Louis University
+* 1998–2003: Assistant Professor, Saint Louis University
+* 1996–1998: G. C. Evans Instructor, Rice University
+* 1991–1996: Teaching Assistant, UCLA
 
 Publications
 ======
