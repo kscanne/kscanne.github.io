@@ -2,7 +2,7 @@
 title: "Infinitesimal deformations of some SO(3,1) lattices"
 collection: publications
 permalink: /publication/2000-06-01-fibonacci-manifolds
-excerpt: 'Summary.'
+excerpt: 'We construct infinitesimal deformations of SO(3,1) lattices arising from the so-called hyperbolic Fibonacci manifolds when embedded in SO(4,1).'
 date: 2000-06-01
 venue: 'Journal'
 paperurl: 'https://kscanne.github.io/files/fibo.pdf'

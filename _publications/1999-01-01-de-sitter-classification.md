@@ -2,7 +2,7 @@
 title: "Flat conformal structures and the classification of de Sitter manifolds"
 collection: publications
 permalink: /publication/1999-01-01-de-sitter-classification
-excerpt: 'Summary.'
+excerpt: 'We show that every compact de Sitter spacetime arises from a flat conformal structure on spacelike slices.'
 date: 1999-01-01
 venue: 'Communications in Analysis and Geometry'
 paperurl: 'https://kscanne.github.io/files/cag.pdf'
