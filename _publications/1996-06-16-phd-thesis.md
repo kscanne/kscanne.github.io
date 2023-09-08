@@ -2,11 +2,11 @@
 title: "Flat conformal structures and causality in de Sitter manifolds"
 collection: publications
 permalink: /publication/1996-06-16-phd-thesis
-excerpt: 'My 1996 Ph.D. thesis under the supervision of Geoff Mess.'
+excerpt: '1996 Ph.D. thesis under the supervision of Geoff Mess.'
 date: 1996-06-16
-venue: 'UCLA Ph.D. thesis'
+venue: 'UCLA Ph.D. theses'
 paperurl: 'https://kscanne.github.io/files/t.pdf'
-citation: 'Kevin Patrick Scannell. <i>Flat conformal structures and causality in de Sitter manifolds</i>. PhD thesis, UCLA, 1996.'
+citation: 'Kevin Patrick Scannell. <i>Flat conformal structures and causality in de Sitter manifolds</i>. Ph.D. thesis, University of California, Los Angeles, 1996.'
 ---
 
 Our main theorem is a classification of compact de Sitter manifolds,
