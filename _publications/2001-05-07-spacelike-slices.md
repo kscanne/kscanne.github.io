@@ -1,5 +1,5 @@
 ---
-title: "3-manifolds which are spacelike slices of flat spacetimes,"
+title: "3-manifolds which are spacelike slices of flat spacetimes"
 collection: publications
 permalink: /publication/2001-05-07-spacelike-slices
 excerpt: 'We give an unnecessarily complicated argument establishing exactly which closed 3-manifolds arise as spacelike slices of flat spacetimes.'
