@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2000-06-01-fibonacci-manifolds
 excerpt: 'We construct infinitesimal deformations of SO(3,1) lattices arising from the so-called hyperbolic Fibonacci manifolds when embedded in SO(4,1).'
 date: 2000-06-01
-venue: 'Journal'
+venue: 'Pacific Journal of Mathematics'
 paperurl: 'https://kscanne.github.io/files/fibo.pdf'
 citation: 'Kevin P. Scannell. Infinitesimal deformations of some SO(3, 1) lattices. <i>Pacific Journal of Mathematics</i>, 194(2):455–464, 2000.'
 ---
