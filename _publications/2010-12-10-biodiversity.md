@@ -2,7 +2,7 @@
 title: "Application of the Inventory of Biodiversity Information and Social Networking Based Collaboration: An Implementation of Software Framework at Web Application Level"
 collection: publications
 permalink: /publication/2010-12-10-biodiversity
-excerpt: 'Summary.'
+excerpt: 'We apply the idea of a software framework at the web application level and implement it as practical web application: Cypriniformes Commons (CypsCom), a solution to store biodiversity information for the fish Order Cypriniformes.'
 date: 2010-12-10
 venue: 'Proceedings of the 2010 International Conference on Computational Intelligence and Software Engineering'
 paperurl: 'https://kscanne.github.io/files/wu-mayden.pdf'
