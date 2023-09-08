@@ -6,7 +6,7 @@ excerpt: 'This paper introduces a Universal Dependencies treebank covering a ran
 date: 2022-06-20
 venue: 'Proceedings of the 4th Celtic Language Technology Workshop'
 paperurl: 'https://kscanne.github.io/files/dppsi.pdf'
-citation: ''
+citation: 'Kevin P. Scannell. Diachronic Parsing of Pre-Standard Irish. In <i>Proceedings of the 4th Celtic Language Technology Workshop at LREC 2022</i>, pages 7–13, Marseille, France. European Language Resources Association.'
 ---
 
 Workshop held at LREC 2022 in Marseille, France.
