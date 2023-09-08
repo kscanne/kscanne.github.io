@@ -6,7 +6,7 @@ excerpt: 'Sa pháipéar seo, déanaim cur síos staitistiúil ar phobal na Gaeil
 date: 2016-03-30
 venue: 'Is ar scáth a chéile a mhaireann na daoine: Éire sa 21ú Aois idir Indibhidiúlacht agus Phobal'
 paperurl: 'https://kscanne.github.io/files/arscathalt.pdf'
-citation: 'Kevin Scannell. Teangacha Mionlaigh sa Ré Dhigiteach: Tionchar na Meán Sóisialta. In Breandán Mac Cormaic, editor, <i>Is ar scáth a chéile a mhaireann na daoine: Éire sa 21ú Aois idir Indibhidiúlacht agus Phobal, pages 112–123. Coiscéim, 2016.'
+citation: 'Kevin Scannell. Teangacha Mionlaigh sa Ré Dhigiteach: Tionchar na Meán Sóisialta. In Breandán Mac Cormaic, editor, <i>Is ar scáth a chéile a mhaireann na daoine: Éire sa 21ú Aois idir Indibhidiúlacht agus Phobal</i>, pages 112–123. Coiscéim, 2016.'
 ---
 
 This paper was presented at a conference in Dublin in March of 2013, and was published along with other papers from the conference by Coiscéim in 2016. See
