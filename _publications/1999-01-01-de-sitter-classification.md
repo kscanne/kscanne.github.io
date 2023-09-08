@@ -14,7 +14,7 @@ citation: 'Kevin P. Scannell. Flat conformal structures and the classification o
 **Abstract**: Given a compact n-manifold Σ with a flat conformal structure,
 there is a canonical procedure for constructing an associated (n+1)-dimensional
 de Sitter spacetime homeomorphic to Σ×(0,∞); we call these
-standard de Sitter spacetimes. Our main theorem is a classification of
+*standard de Sitter spacetimes*. Our main theorem is a classification of
 compact de Sitter manifolds; it asserts that every de Sitter
 spacetime which is a small regular neighborhood of a closed spacelike
 hypersurface isometrically embeds in a standard de Sitter spacetime.
