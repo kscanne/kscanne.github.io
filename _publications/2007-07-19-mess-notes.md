@@ -5,7 +5,7 @@ permalink: /publication/2007-07-19-mess-notes
 excerpt: 'These notes are a companion to the paper “Lorentz spacetimes of constant curvature” by Geoffrey Mess.'
 date: 2007-07-19
 venue: 'Geometriae Dedicata'
-paperurl: 'https://kscanne.github.io/files/intro.pdf'
+paperurl: 'https://kevinscannell.com/files/intro.pdf'
 citation: 'Lars Andersson, Thierry Barbot, Riccardo Benedetti, Francesco Bonsante, William M. Goldman, François Labourie, Kevin P. Scannell, and Jean-Marc Schlenker. Notes on a paper of Mess. <i>Geometriae Dedicata</i>, 126(1):47–70, 2007.'
 ---
 

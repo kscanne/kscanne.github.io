@@ -5,7 +5,7 @@ permalink: /publication/2014-08-23-standardizer-and-gd2ga
 excerpt: 'We present a statistical model that is effective for standardization of Irish texts, as well as translation from Scottish Gaelic to Irish.'
 date: 2014-08-23
 venue: 'Proceedings of the 1st Celtic Language Technology Workshop at COLING 2014'
-paperurl: 'https://kscanne.github.io/files/coling14.pdf'
+paperurl: 'https://kevinscannell.com/files/coling14.pdf'
 citation: 'Kevin Scannell. Statistical models for text normalization and machine translation. In <i>Proceedings of the First Celtic Language Technology Workshop</i>, pages 33–40, Dublin, Ireland, 2014. Association for Computational Linguistics and Dublin City University.'
 ---
 

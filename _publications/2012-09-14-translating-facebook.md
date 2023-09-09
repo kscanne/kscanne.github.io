@@ -5,7 +5,7 @@ permalink: /publication/2012-09-14-translating-facebook
 excerpt: 'This paper describes an approach to localizing the Facebook interface into unsupported languages, originally due to Neskie Manuel.'
 date: 2012-09-14
 venue: 'Language Endangerment in the 21st Century: Globalisation, Technology and New Media. Proceedings of the 16th Foundation for Endangered Languages Conference'
-paperurl: 'https://kscanne.github.io/files/fel12.pdf'
+paperurl: 'https://kevinscannell.com/files/fel12.pdf'
 citation: 'Kevin Scannell. Translating Facebook into Endangered Languages. In Tania Ka’ai, Muiris Ó Laoire, et al., editors, <i>Language Endangerment in the 21st Century: Globalisation, Technology and New Media. Proceedings of the 16th Foundation for Endangered Languages Conference</i>, pages 106–110, 2012.'
 ---
 

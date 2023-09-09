@@ -5,7 +5,7 @@ permalink: /publication/2020-05-11-celtic-mutations
 excerpt: 'In this paper we describe and evaluate neural network models for predicting mutations in Irish and Scottish Gaelic. We also discuss applications of these models to grammatical error detection and language modeling.'
 date: 2020-05-11
 venue: 'Proceedings of the 1st Joint SLTU and CCURL Workshop at LREC 2020, Marseille, France, 11–12 May 2020'
-paperurl: 'https://kscanne.github.io/files/lrec2020.pdf'
+paperurl: 'https://kevinscannell.com/files/lrec2020.pdf'
 citation: 'Kevin Scannell. Neural Models for Predicting Celtic Mutations. In <i>Proceedings of the 1st Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL)</i>, pages 1–8, 2020.'
 ---
 

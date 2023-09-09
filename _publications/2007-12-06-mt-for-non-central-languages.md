@@ -5,7 +5,7 @@ permalink: /publication/2007-12-06-mt-for-non-central-languages
 excerpt: 'We argue in favor of an open-source approach to the development of language technology for under-resourced languages.'
 date: 2007-12-06
 venue: 'Machine Translation'
-paperurl: 'https://kscanne.github.io/files/mt.pdf'
+paperurl: 'https://kevinscannell.com/files/mt.pdf'
 citation: 'Oliver Streiter, Kevin P. Scannell, and Mathias Stuflesser. Implementing NLP Projects for Non-Central Languages: Instructions for Funding Bodies, Strategies for Developers. <i>Machine Translation</i>, 20(4):267–289, 2006.'
 ---
 

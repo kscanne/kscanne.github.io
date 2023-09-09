@@ -5,7 +5,7 @@ permalink: /publication/2016-05-24-lemongawn
 excerpt: 'We introduce lemonGAWN, a conversion of WordNet Gaeilge, a wordnet for the Irish language, with synset relations projected from EuroWordNet.'
 date: 2016-05-24
 venue: 'LDL 2016 — 5th Workshop on Linked Data in Linguistics: Managing, Building and Using Linked Language Resources'
-paperurl: 'https://kscanne.github.io/files/lemon.pdf'
+paperurl: 'https://kevinscannell.com/files/lemon.pdf'
 citation: 'Jim O’Regan, Kevin Scannell, and Elaine Uí Dhonnchadha. lemonGAWN: WordNet Gaeilge as Linked Data. In John P. McCrae, Christian Chiarcos, et al., editors, <i>LDL 2016–5th Workshop on Linked Data in Linguistics: Managing, Building and Using Linked Language Resources</i>, pages 36–40, 2016.'
 ---
 

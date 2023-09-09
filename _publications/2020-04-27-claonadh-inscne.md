@@ -5,7 +5,7 @@ permalink: /publication/2020-04-27-claonadh-inscne
 excerpt: 'Sa pháipéar seo, díreoidh mé ar chlaonadh inscne i gcorpas mór Gaeilge agus an tionchar a imríonn sé ar theicneolaíochtaí teanga.'
 date: 2020-04-27
 venue: 'Léann Teanga: An Reiviú'
-paperurl: 'https://kscanne.github.io/files/reiviu.pdf'
+paperurl: 'https://kevinscannell.com/files/reiviu.pdf'
 citation: 'Kevin P. Scannell. Claonadh Inscne, Líonraí Néaracha, agus an Ghaeilge. <i>Léann Teanga: An Reiviú</i>, 8:159–170, 2020.'
 ---
 

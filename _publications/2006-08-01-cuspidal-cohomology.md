@@ -8,7 +8,7 @@ to the Bianchi groups and finite-index subgroups, performing
 calculations in a finite range. '
 date: 2006-08-01
 venue: 'Canadian Journal of Mathematics'
-paperurl: 'https://kscanne.github.io/files/bianchi.pdf'
+paperurl: 'https://kevinscannell.com/files/bianchi.pdf'
 citation: 'Anneke Bart and Kevin P. Scannell. The generalized cuspidal cohomology problem. <i>Canadian Journal of Mathematics</i>, 58(4):673–690, 2006.'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2021-11-23-corpas-focloireachta
 excerpt: 'Leagtar amach sa pháipéar seo na céimeanna a leanadh le Corpas Foclóireachta na Gaeilge 2020 (CFG2020), corpas aonteangach 77.3 milliún focal, a thiomsú.'
 date: 2021-11-23
 venue: 'TEANGA, the Journal of the Irish Association for Applied Linguistics'
-paperurl: 'https://kscanne.github.io/files/dcu2021.pdf'
+paperurl: 'https://kevinscannell.com/files/dcu2021.pdf'
 citation: 'Mícheál J. Ó Meachair, Brian Ó Raghallaigh, Úna Bhreathnach, Gearóid Ó Cleircín, and Kevin P. Scannell. Tiomsú Corpais don Taighde Foclóireachta: Corpas Foclóireachta na Gaeilge (CFG2020). <i>TEANGA, the Journal of the Irish Association for Applied Linguistics</i>, 28:278–305, 2021.'
 ---
 

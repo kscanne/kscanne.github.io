@@ -5,7 +5,7 @@ permalink: /publication/2005-02-15-self-linking
 excerpt: 'We initiate the study of classical knots through the homotopy class of the nth evaluation map of the knot, which is the induced map on the compactified n-point configuration space.'
 date: 2005-02-15
 venue: 'Advances in Mathematics'
-paperurl: 'https://kscanne.github.io/files/selflink.pdf'
+paperurl: 'https://kevinscannell.com/files/selflink.pdf'
 citation: 'Ryan Budney, James Conant, Kevin P. Scannell, and Dev Sinha. New per- spectives on self-linking. <i>Advances in Mathematics</i>, 191(1):78–113, 2005.'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2011-06-24-unicodification
 excerpt: 'This paper describes an open source package that performs automatic unicodification, implementing a variant of an algorithm described in previous work of De Pauw, Wagacha, and de Schryver.'
 date: 2011-06-24
 venue: 'Language Resources and Evaluation'
-paperurl: 'https://kscanne.github.io/files/lre.pdf'
+paperurl: 'https://kevinscannell.com/files/lre.pdf'
 citation: 'Kevin P. Scannell. Statistical Unicodification of African Languages. <i>Language Resources and Evaluation</i>, 45(3):375–386, 2011.'
 ---
 

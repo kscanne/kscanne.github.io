@@ -5,7 +5,7 @@ permalink: /publication/2003-01-01-hyphenation-patterns
 excerpt: 'We discuss various techniques used to develop TeX hyphenation patterns for the Irish language.'
 date: 2003-01-01
 venue: 'TUGboat — Communications of the TeX Users Group'
-paperurl: 'https://kscanne.github.io/files/tugboat.pdf'
+paperurl: 'https://kevinscannell.com/files/tugboat.pdf'
 citation: 'Kevin P. Scannell. Hyphenation patterns for minority languages. <i>TUGboat – Communications of the TeX Users Group</i>, 24(2):236–239, 2003.'
 ---
 

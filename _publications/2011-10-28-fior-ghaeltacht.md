@@ -5,7 +5,7 @@ permalink: /publication/2011-10-28-fior-ghaeltacht
 excerpt: 'Cur síos ar an tionchar a imríonn na meáin shóisialta ar phobal na Gaeilge i Meiriceá Thuaidh.'
 date: 2011-10-28
 venue: 'N/A'
-paperurl: 'https://kscanne.github.io/files/fiche.pdf'
+paperurl: 'https://kevinscannell.com/files/fiche.pdf'
 citation: 'Kevin P. Scannell. Fíor-Ghaeltacht nó Gaeltacht Fhíorúil? Meáin Shóisialta agus Forbairt na Gaeilge i Meiriceá Thuaidh. Unpublished manuscript. 2011.'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2002-05-08-1d-embeddings
 excerpt: 'We give the first explicit computations of rational homotopy groups of spaces of “long knots” in Euclidean spaces.'
 date: 2002-05-08
 venue: 'Journal of Pure and Applied Algebra'
-paperurl: 'https://kscanne.github.io/files/jpaa.pdf'
+paperurl: 'https://kevinscannell.com/files/jpaa.pdf'
 citation: 'Kevin P. Scannell and Dev P. Sinha. A one-dimensional embedding complex. <i>Journal of Pure and Applied Algebra</i>, 170(1):93–107, 2002.'
 ---
 

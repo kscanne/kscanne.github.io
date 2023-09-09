@@ -5,7 +5,7 @@ permalink: /publication/2019-06-15-lsg-history
 excerpt: 'This paper gives an overview of Líonra Séimeantach na Gaeilge, a semantic network for the Irish language.'
 date: 2019-06-15
 venue: 'Linguistic Issues in Language Technology'
-paperurl: 'https://kscanne.github.io/files/lilt.pdf'
+paperurl: 'https://kevinscannell.com/files/lilt.pdf'
 citation: 'Kevin P. Scannell and Jim O’Regan. History and Development of the Irish Language Semantic Network. To appear in <i>Linguistic Issues in Language Technology</i>.'
 ---
 

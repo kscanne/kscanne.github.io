@@ -5,7 +5,7 @@ permalink: /publication/2002-07-15-rigid-examples
 excerpt: 'We produce the first examples of closed hyperbolic 3-manifolds which contain embedded quasi-Fuchsian surfaces but are locally rigid in SO(4, 1).'
 date: 2002-07-15
 venue: 'Duke Mathematical Journal'
-paperurl: 'https://kscanne.github.io/files/dehn.pdf'
+paperurl: 'https://kevinscannell.com/files/dehn.pdf'
 citation: 'Kevin P. Scannell. Local rigidity of hyperbolic 3-manifolds after Dehn surgery. <i>Duke Mathematical Journal</i>, 114(1):1–14, 2002.'
 ---
 

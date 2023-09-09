@@ -5,7 +5,7 @@ permalink: /publication/2005-01-01-parallel-corpora
 excerpt: 'We describe the development of an aligned parallel corpus of English and Irish texts, along with a simple application enabling the standardization of documents written in prestandard or dialect forms of Irish.'
 date: 2005-01-01
 venue: 'N/A'
-paperurl: 'https://kscanne.github.io/files/ccgb.pdf'
+paperurl: 'https://kevinscannell.com/files/ccgb.pdf'
 citation: 'Kevin P. Scannell. Applications of parallel corpora to the development of monolingual language technologies. Unpublished manuscript. 2005.'
 ---
 

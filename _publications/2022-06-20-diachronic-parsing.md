@@ -5,7 +5,7 @@ permalink: /publication/2022-06-20-diachronic-parsing
 excerpt: 'This paper introduces a Universal Dependencies treebank covering a range of Irish dialects and time periods since 1600. We also establish baselines for lemmatization, tagging, and dependency parsing on this corpus by experimenting with a variety of machine learning approaches.'
 date: 2022-06-20
 venue: 'Proceedings of the 4th Celtic Language Technology Workshop'
-paperurl: 'https://kscanne.github.io/files/dppsi.pdf'
+paperurl: 'https://kevinscannell.com/files/dppsi.pdf'
 citation: 'Kevin P. Scannell. Diachronic Parsing of Pre-Standard Irish. In <i>Proceedings of the 4th Celtic Language Technology Workshop at LREC 2022</i>, pages 7–13, Marseille, France. European Language Resources Association.'
 ---
 

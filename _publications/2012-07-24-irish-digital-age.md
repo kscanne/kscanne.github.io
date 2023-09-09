@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2012-07-24-irish-digital-age
 excerpt: 'Comprehensive survey of language technology for Irish as of 2012.'
 date: 2012-07-24
-paperurl: 'https://kscanne.github.io/files/metanet.pdf'
+paperurl: 'https://kevinscannell.com/files/metanet.pdf'
 citation: 'John Judge, Ailbhe Ní Chasaide, Rose Ní Dhubhda, Elaine Uí Dhonnchadha, and Kevin P. Scannell. <i>The Irish Language in the Digital Age / An Ghaeilge sa Ré Dhigiteach</i>. Springer, 2012.'
 ---
 

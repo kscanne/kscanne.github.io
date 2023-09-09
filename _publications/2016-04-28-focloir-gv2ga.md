@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-04-28-focloir-gv2ga
 excerpt: 'A bilingual Manx Gaelic-to-Irish dictionary.'
 date: 2016-04-28
-paperurl: 'https://kscanne.github.io/files/gv2ga.pdf'
+paperurl: 'https://kevinscannell.com/files/gv2ga.pdf'
 citation: 'Caoimhín Ó Scanaill. <i>Foclóir Manainnis-Gaeilge</i>. Cadhan Aonair, 2016.'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2019-08-19-code-switching
 excerpt: 'This paper reports on the annotation of (English) code-switching in a corpus of 1496 Irish tweets and provides a computational analysis of the nature of code-switching amongst Irish-speaking Twitter users.'
 date: 2019-08-19
 venue: 'Proceedings of the 3rd Celtic Language Technology Workshop at MT Summit XVII'
-paperurl: 'https://kscanne.github.io/files/codeswitch.pdf'
+paperurl: 'https://kevinscannell.com/files/codeswitch.pdf'
 citation: 'Teresa Lynn and Kevin Scannell. Code-switching in Irish tweets: A preliminary analysis. In <i>Proceedings of the Third Celtic Language Technology Workshop</i>, pages 32–40, Dublin, Ireland, 2019. European Association for Machine Translation.'
 ---
 

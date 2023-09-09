@@ -5,7 +5,7 @@ permalink: /publication/1999-01-01-de-sitter-classification
 excerpt: 'We show that every compact de Sitter spacetime arises from a flat conformal structure on spacelike slices.'
 date: 1999-01-01
 venue: 'Communications in Analysis and Geometry'
-paperurl: 'https://kscanne.github.io/files/cag.pdf'
+paperurl: 'https://kevinscannell.com/files/cag.pdf'
 citation: 'Kevin P. Scannell. Flat conformal structures and the classification of de Sitter manifolds. <i>Communications in Analysis and Geometry</i>, 7(2):325–345, 1999.'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/2008-08-19-native-language-network
 excerpt: 'We describe ongoing work to localize free software into Irish, and discuss how this strategy can benefit Indigenous language communities.'
 date: 2008-08-19
 venue: 'N/A'
-paperurl: 'https://kscanne.github.io/files/ili.pdf'
+paperurl: 'https://kevinscannell.com/files/ili.pdf'
 citation: 'Kevin P. Scannell. Free Software for Indigenous Languages. Unpublished manuscript. 2008.'
 ---
 

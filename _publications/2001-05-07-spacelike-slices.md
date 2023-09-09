@@ -5,7 +5,7 @@ permalink: /publication/2001-05-07-spacelike-slices
 excerpt: 'We give an unnecessarily complicated argument establishing exactly which closed 3-manifolds arise as spacelike slices of flat spacetimes.'
 date: 2001-05-07
 venue: 'Classical and Quantum Gravity'
-paperurl: 'https://kscanne.github.io/files/slice.pdf'
+paperurl: 'https://kevinscannell.com/files/slice.pdf'
 citation: 'Kevin P. Scannell. 3-manifolds which are spacelike slices of flat spacetimes. <i>Classical and Quantum Gravity</i>, 18(9):1691–1701, 2001.'
 ---
 

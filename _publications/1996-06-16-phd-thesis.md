@@ -5,7 +5,7 @@ permalink: /publication/1996-06-16-phd-thesis
 excerpt: '1996 Ph.D. thesis under the supervision of Geoff Mess.'
 date: 1996-06-16
 venue: 'UCLA Ph.D. theses'
-paperurl: 'https://kscanne.github.io/files/t.pdf'
+paperurl: 'https://kevinscannell.com/files/t.pdf'
 citation: 'Kevin Patrick Scannell. <i>Flat conformal structures and causality in de Sitter manifolds</i>. Ph.D. thesis, University of California, Los Angeles, 1996.'
 ---
 

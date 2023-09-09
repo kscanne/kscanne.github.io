@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-04-28-focloir-gd2ga
 excerpt: 'A bilingual Scottish Gaelic-to-Irish dictionary'
 date: 2016-04-28
-paperurl: 'https://kscanne.github.io/files/gd2ga.pdf'
+paperurl: 'https://kevinscannell.com/files/gd2ga.pdf'
 citation: 'Caoimhín Ó Scanaill. <i>Foclóir Gàidhlig-Gaeilge</i>. Cadhan Aonair, 2016.'
 ---
 
