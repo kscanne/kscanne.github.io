@@ -10,3 +10,5 @@ citation: 'Kevin P. Scannell. Machine translation for closely related language p
 ---
 
 Conference proceedings.
+
+**Abstract**: We exploit the close linguistic relationship between Irish and Scottish Gaelic to develop a robust machine translation system, despite the lack of full parsing technology or pre-existing bilingual lexical resources.
