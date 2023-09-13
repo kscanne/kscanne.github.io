@@ -13,16 +13,19 @@
 
 import glob
 import getorg
+import geopy
 from geopy import Nominatim
 
 g = glob.glob("*.md")
 
+geopy.geocoders.options.default_user_agent = "academicpages-kscanne"
 
 geocoder = Nominatim()
 location_dict = {}
 location = ""
 permalink = ""
 title = ""
+
 
 
 for file in g:
