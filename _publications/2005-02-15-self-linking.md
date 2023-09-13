@@ -6,7 +6,7 @@ excerpt: 'We initiate the study of classical knots through the homotopy class of
 date: 2005-02-15
 venue: 'Advances in Mathematics'
 paperurl: 'https://kevinscannell.com/files/selflink.pdf'
-citation: 'Ryan Budney, James Conant, Kevin P. Scannell, and Dev Sinha. New per- spectives on self-linking. <i>Advances in Mathematics</i>, 191(1):78–113, 2005.'
+citation: 'Ryan Budney, James Conant, Kevin P. Scannell, and Dev Sinha. New perspectives on self-linking. <i>Advances in Mathematics</i>, 191(1):78–113, 2005.'
 ---
 
 **DOI**: [doi:10.1016/j.aim.2004.03.004](https://dx.doi.org/10.1016/j.aim.2004.03.004)

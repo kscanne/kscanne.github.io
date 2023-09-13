@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, MIT, 1991
-* Ph.D in Mathematics, UCLA, 1996
+* Ph.D. in Mathematics, UCLA, 1996
 
 Academic positions
 ======
