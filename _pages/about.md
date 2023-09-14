@@ -30,4 +30,4 @@ You can find all of my [publications](/publications/),
 
 If you are an Irish speaker, you will find a few papers and lectures
 in Irish here, but you are more likely to find what you need on
-my company's website, [Cadhan Aonair](https://cadhan.com/).
+the [Cadhan Aonair](https://cadhan.com/) website.
