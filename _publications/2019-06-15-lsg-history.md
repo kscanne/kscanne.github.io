@@ -10,3 +10,6 @@ citation: 'Kevin P. Scannell and Jim O’Regan. History and Development of the I
 ---
 
 This paper was accepted for publication in a special issue of Linguistic Issues in Language Technology on Linking, Integrating and Extending Wordnets. It's not clear that this special issue will ever appear and the guest editors have provided no further information.
+
+* [Associated talk](/talks/2008-10-18-talk)
+* [Code](/software/2007-10-05-software)

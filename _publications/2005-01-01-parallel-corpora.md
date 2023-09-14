@@ -11,3 +11,5 @@ citation: 'Kevin P. Scannell. Applications of parallel corpora to the developmen
 
 This paper was never published, but contains some nice tricks for extracting
 pre-standard/standard Irish word pairs with the help of an English-Irish parallel corpus.
+
+* [Code](/software/2004-03-22-software)
