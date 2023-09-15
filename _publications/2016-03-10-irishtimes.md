@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-03-10-irishtimes
 excerpt: '“Ní caitheamh aimsire é seo dúinn. Ba mhaith linn páirt iomlán a ghlacadh i saol na Gaeilge mar theanga bheo”'
 date: 2016-03-10
-venue: 'Irish Times'
+venue: 'The Irish Times Magazine'
 paperurl: 'https://kevinscannell.com/files/irishtimes.pdf'
 citation: 'Kevin Scannell. Teanga dhomhanda. <i>The Irish Times Magazine</i>, 14–15, 10 March 2016.'
 ---
