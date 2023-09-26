@@ -1,5 +1,5 @@
 ---
-title: "Local rigidity of hyperbolic 3-manifolds after Dehn surgery,"
+title: "Local rigidity of hyperbolic 3-manifolds after Dehn surgery"
 collection: publications
 permalink: /publication/2002-07-15-rigid-examples
 excerpt: 'We produce the first examples of closed hyperbolic 3-manifolds which contain embedded quasi-Fuchsian surfaces but are locally rigid in SO(4, 1).'
