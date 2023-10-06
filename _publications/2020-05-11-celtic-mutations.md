@@ -6,7 +6,7 @@ excerpt: 'In this paper we describe and evaluate neural network models for predi
 date: 2020-05-11
 venue: 'Proceedings of the 1st Joint SLTU and CCURL Workshop at LREC 2020, Marseille, France, 11–12 May 2020'
 paperurl: 'https://kevinscannell.com/files/lrec2020.pdf'
-citation: 'Kevin Scannell. Neural Models for Predicting Celtic Mutations. In <i>Proceedings of the 1st Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL)</i>, pages 1–8, 2020.'
+citation: 'Kevin P. Scannell. Neural Models for Predicting Celtic Mutations. In <i>Proceedings of the 1st Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL)</i>, pages 1–8, 2020.'
 ---
 
 The in-person conference was cancelled because of COVID-19.
