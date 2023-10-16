@@ -10,3 +10,5 @@ citation: 'Kevin Scannell. Teanga dhomhanda. <i>The Irish Times Magazine</i>, 14
 ---
 
 This was an article about Irish as a “global language” in the Irish Times Magazine; a special issue in commemoration of the 100th anniversary of the Easter Rising'.
+
+[Download](https://www.forasnagaeilge.ie/wp-content/uploads/2016/06/Forl%C3%ADonadh_10_M%C3%A1rta_Irish_Times-1.pdf) the special issue in its entirety.
